@@ -1,0 +1,15 @@
+inicio math
+
+inicio declaracion constantes y variables
+
+fin declaracion constantes y variables
+
+inicio declaracion funciones
+inicio funcion
+valor = dividir(1,x),
+nombre = prueba
+fin funcion
+fin declaracion funciones
+
+
+fin math

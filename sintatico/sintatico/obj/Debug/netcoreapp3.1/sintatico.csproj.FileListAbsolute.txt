@@ -1,0 +1,16 @@
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\bin\Debug\netcoreapp3.1\sintatico.exe
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\bin\Debug\netcoreapp3.1\sintatico.deps.json
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\bin\Debug\netcoreapp3.1\sintatico.runtimeconfig.json
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\bin\Debug\netcoreapp3.1\sintatico.runtimeconfig.dev.json
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\bin\Debug\netcoreapp3.1\sintatico.dll
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\bin\Debug\netcoreapp3.1\sintatico.pdb
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.csproj.AssemblyReference.cache
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.Form1.resources
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.csproj.GenerateResource.cache
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.AssemblyInfoInputs.cache
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.AssemblyInfo.cs
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.csproj.CoreCompileInputs.cache
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.dll
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.pdb
+C:\Users\Ash Quezada\Desktop\asp\sintatico\sintatico\obj\Debug\netcoreapp3.1\sintatico.genruntimeconfig.cache
